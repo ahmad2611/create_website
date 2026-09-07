@@ -23,13 +23,4 @@ Welcome to my personal portfolio project. Here I learn how to properly use git w
 ---
 
 ## 📝 Submission Instructions  
-Once you have pushed your work to GitHub, submit the repository link as per the instructions provided in the course.
-
----
-
-### ⚖️ License  
-This project template is licensed under the [MIT License](LICENSE).
-
----
-
-Celebrate and enjoy your coding experience! 🚀
+To view the project, please see the deployed link or the [Repo](https://github.com/ahmad2611/create_website)
